@@ -1,4 +1,4 @@
-# Climony OSS Lizenzen
+# OneClimate OSS Lizenzen
 
 ---
 
